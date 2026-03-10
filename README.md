@@ -1,0 +1,93 @@
+# ME:I – 想像以上 (ME:I Ver.)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.81] We're perfectly
+[00:06.62] Perfect to me
+[00:08.42] We're like a dream
+[00:10.20] Imagine it
+[00:15.20] 
+[00:12.19] We're perfectly
+[00:13.96] Perfect to me
+[00:15.86] We're like a dream
+[00:17.64] Imagine it
+[00:22.64] 
+[00:18.41] Oh, babe
+[00:20.37] 煌めくあの舞台へ (yeah, yeah)
+[00:23.91] 踏み出したら my runway
+[00:26.42] 風を切って 高鳴る胸 君の想いのせ
+[00:34.92] 
+[00:34.04] この瞬間 輝きだす flashing lights
+[00:37.75] みんな私から目離せない
+[00:40.91] 歓声を聞かせてよ
+[00:44.65] More and more and more
+[00:46.78] 魅せるよ show
+[00:51.28] 
+[00:47.83] You and me (you and me)
+[00:49.96] 君が待っているから
+[00:52.95] 星のように dress up ほら make up
+[00:55.49] Always カラフルな世界へ
+[01:00.72] さぁ come to me
+[01:07.22] 
+[01:03.46] Oh, what's it gonna be
+[01:05.37] I know that you want me
+[01:07.06] I'm gonna let you be
+[01:08.46] Dream, dream high
+[01:16.96] 
+[01:10.80] 眩しい光を浴びて
+[01:14.57] 歩き出そう 未来だけ見て
+[01:18.23] 辿り着く 夢の先へ
+[01:22.20] 君といれば
+[01:24.70] 
+[01:24.37] 想像以上の light (we're perfectly)
+[01:26.45] 行こう utopia (perfect to me)
+[01:28.62] 夢を叶える storyline (imagine it)
+[01:31.80] 想像以上の light (we're perfectly)
+[01:33.65] 行こう utopia (perfect to me)
+[01:35.71] 夢を叶える storyline (imagine it)
+[01:49.71] 
+[01:40.57] 鳴り止まない hot なタイムライン
+[01:43.91] 眩しすぎ girl, but you can't look away
+[02:00.91] 
+[01:47.96] 話題の good girl 欲しいの？
+[01:49.28] My heart 刺激するんだ (Hey)
+[01:51.69] 好奇心が指さす方へ
+[01:53.57] Let's get this going
+[02:03.57] 
+[01:55.10] 私が歩けば 未知の世界へ
+[01:58.83] 君が笑えば 開く運命のドア
+[02:03.81] そこに何があるの？ 一緒に確かめよう
+[02:12.81] 
+[02:11.01] 君が待っているから
+[02:14.19] 星のように dress up ほら make up
+[02:16.60] Always カラフルな世界へ
+[02:22.05] さぁ come to me
+[02:28.55] 
+[02:24.76] 眩しい光を浴びて
+[02:28.45] 歩き出そう 未来だけ見て
+[02:32.16] 辿り着く 夢の先へ
+[02:36.08] 君といれば I can fly
+[02:43.58] 
+[02:41.22] Oh, what's it gonna be
+[02:43.13] I know that you want me
+[02:44.73] I'm gonna let you be
+[02:46.58] Dream, dream high
+[02:55.08] 
+[02:48.63] Oh, what's it gonna be
+[02:50.40] I know that you want me
+[02:52.32] I'm gonna let you be
+[02:53.93] Dream, dream high
+[03:02.43] 
+[02:55.58] (Oh!) 眩しい光を浴びて
+[02:59.77] 歩き出そう 未来だけ見て
+[03:03.45] 辿り着く 夢の先へ
+[03:07.49] 君といれば
+[03:09.99] 
+[03:09.83] 想像以上の light (we're perfectly)
+[03:11.57] 行こう utopia (perfect to me)
+[03:13.66] 夢を叶える storyline (imagine it)
+[03:17.05] 想像以上の light (we're perfectly)
+[03:18.93] 行こう utopia (perfect to me)
+[03:21.05] 夢を叶える storyline (imagine it)
+```
