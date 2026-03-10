@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "想像以上 (ME:I Ver.)",
+  "base_artist": "ME:I",
+  "createdAt": "2026-03-10T06:03:16.086889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "想像以上",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": true,
+      "path": "select/01_想像以上_PRODUCE_101_JAPAN_THE_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "想像以上",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": false,
+      "path": "select/02_想像以上_PRODUCE_101_JAPAN_THE_GIRLS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想像以上 - ME:I Ver.",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/pl_01_想像以上_-_ME_I_Ver._ME_I.txt"
+    }
+  ]
+}
